@@ -1,4 +1,14 @@
-# Showtime
+This project is a modern, user-friendly movie site developed using Angular and Node.js. It is designed for users to easily search, view, and rate movies. The site is carefully crafted to provide a fast, interactive, and performance-oriented experience.
+
+Technologies
+Frontend: Built with Angular, providing a user-friendly, fast, and responsive interface.
+Backend: Uses Node.js and Express to provide reliable and scalable RESTful APIs.
+Database: MongoDB ensures data security and fast access.
+Features
+Movie Search: Allows users to search a large movie database with ease.
+Movie Details: Provides detailed information for each movie, including trailers, directors, cast, and more.
+Rating and Comments: Users can rate and comment on movies.
+Personal Lists: Users can add favorite movies to their lists and create personal movie collections
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
@@ -25,3 +35,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
